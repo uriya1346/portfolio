@@ -2,8 +2,6 @@
 
 This is a portfolio website designed to showcase my professional experience, skills, and projects. Built using React, the site is composed of several components that create a comprehensive and dynamic user experience.
 
-![App Screenshot](app-screenshot.png)
-
 ## Structure
 
 The app is structured into several React components:
